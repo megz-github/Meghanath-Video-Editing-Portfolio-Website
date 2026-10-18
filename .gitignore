@@ -1,0 +1,16 @@
+# Dependencies & Builds
+node_modules/
+.next/
+portfolio/node_modules/
+portfolio/.next/
+
+# Raw media folders (already optimized inside portfolio/public)
+short form videos/
+videos/
+photos/
+
+# Environment and logs
+.env*
+*.log
+.DS_Store
+Thumbs.db

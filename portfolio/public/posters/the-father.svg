@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080" width="1920" height="1080">
+    <defs>
+      <radialGradient id="glow-02" cx="50%" cy="50%" r="65%">
+        <stop offset="0%" stop-color="#FF6B3D" stop-opacity="0.3"/>
+        <stop offset="100%" stop-color="#0A0A0A" stop-opacity="1"/>
+      </radialGradient>
+      <linearGradient id="grad-02" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#140f0c"/>
+        <stop offset="100%" stop-color="#0A0A0A"/>
+      </linearGradient>
+    </defs>
+    <rect width="1920" height="1080" fill="url(#grad-02)"/>
+    <rect width="1920" height="1080" fill="url(#glow-02)"/>
+    <rect x="0" y="0" width="1920" height="70" fill="#050505"/>
+    <rect x="0" y="1010" width="1920" height="70" fill="#050505"/>
+    <line x1="120" y1="70" x2="120" y2="1010" stroke="rgba(255,255,255,0.06)" stroke-width="1"/>
+    <line x1="1800" y1="70" x2="1800" y2="1010" stroke="rgba(255,255,255,0.06)" stroke-width="1"/>
+    <text x="1750" y="660" font-family="Arial Black, Impact, sans-serif" font-size="360" font-weight="900" fill="none" stroke="rgba(198,255,61,0.12)" stroke-width="3" text-anchor="end">02</text>
+    <text x="140" y="130" font-family="Courier New, monospace" font-size="20" fill="rgba(255,255,255,0.5)" letter-spacing="4">● 4K PRORES · MEGHANATH DINESHKUMAR</text>
+    <text x="1780" y="130" font-family="Courier New, monospace" font-size="20" fill="#FF6B3D" letter-spacing="4" text-anchor="end">SCENE 002 // TAKE 01</text>
+    <circle cx="960" cy="540" r="54" fill="rgba(0,0,0,0.5)" stroke="#FF6B3D" stroke-width="2.5"/>
+    <polygon points="950,518 982,540 950,562" fill="#FF6B3D"/>
+    <text x="140" y="890" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#FF6B3D" letter-spacing="6">SHORT FILM · 2024</text>
+    <text x="140" y="955" font-family="Arial Black, sans-serif" font-size="64" font-weight="900" fill="#FFFFFF" letter-spacing="2">THE FATHER</text>
+  </svg>
